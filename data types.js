@@ -1,6 +1,8 @@
 //Strings
 let name = "this is a string";
+let name2 = "felister paul is a good woman"
 console.log(name);
+console.log(name2);
 
 //BigInt
 let big_value = (40 / +0);
